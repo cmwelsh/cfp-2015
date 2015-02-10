@@ -1,0 +1,20 @@
+---
+Session:
+  Title: No State Like Props - Immutability In Flux
+  Description: >
+    Description of my awesome talk goes here, 1000 chars max.
+  Length: 20
+  Tags:
+    - immutablejs
+    - omniscientjs
+    - immstruct
+    - flux
+
+Speaker1:
+  name: Chris M. Welsh
+  twitter: chrismwelsh
+  github: cmwelsh
+  url: http://cmwelsh.com
+  email: chris@cmwelsh.com
+  bio: >
+    Bio of speaker1, 500 chars max.
